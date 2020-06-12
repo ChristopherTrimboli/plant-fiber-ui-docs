@@ -11,12 +11,7 @@ const Docs = (props) => {
                     <h1>Box</h1>
                 </div>
                 <code style={{ padding: 20 }}>
-                    {`<Box
-                        position={[0, 0, 3]}
-                        useRef={useRef} 
-                        useState={useState} 
-                        useFrame={useFrame} 
-                    />`}
+                    {`<Box position={[0, 0, 3]} />`}
                 </code>
             </Col>
             <Col xs={24} sm={12} md={12} lg={12} xl={12}>
