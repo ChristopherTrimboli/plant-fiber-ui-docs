@@ -9,11 +9,12 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.3.3",
-    "plant-fiber-ui": "^0.0.13",
+    "plant-fiber-ui": "^0.0.17",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.8",
+    "react-xr": "^1.0.6",
     "three": "^0.117.1"
   },
   "scripts": {

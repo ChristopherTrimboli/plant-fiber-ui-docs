@@ -1,6 +1,5 @@
 import React from 'react';
-import { Box } from 'plant-fiber-ui';
-import { Canvas } from 'react-three-fiber';
+import { Canvas, Box } from 'plant-fiber-ui';
 import { Row, Col } from 'antd';
 
 const Docs = (props) => {
